@@ -1,0 +1,9 @@
+dist/
+node_modules/
+.idea_modules/
+.idea/
+*.idea_modulesmodules.xml
+*.ipr
+Thumbs.db
+[Dd]esktop.ini
+$RECYCLE.bin/
